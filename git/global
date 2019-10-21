@@ -1,8 +1,8 @@
 [gui]
         recentrepo = /home/berith/Documents/programming/
 [user]
-        name = Diego Diaz
-        email = berith.py@gmail.com
+        name = REPLACE_WITH_NAME
+        email = REPLACE_WITH_EMAIL
 [core]
         autocrlf = input
         editor = vim
